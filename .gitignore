@@ -1,0 +1,20 @@
+miRTarBase_MTI.csv
+# Large raw/reference data uploaded to Zenodo
+.RData
+.Rhistory
+miRTarBase_MTI.csv
+GSM7082513_cells_chip1_mRNA.txt
+ENCORI_hg38_miRNA_mRNA_all.txt
+GSM7082515_cells_chip2_mRNA.txt.gz
+
+# Large generated/model files
+phase3_aligned_data/
+*.pt
+*.npy
+*.npz
+*.h5
+*.h5ad
+*.rds
+*.RDS
+*.mtx
+*.mtx.gz
