@@ -163,5 +163,5 @@ To recreate it later:
 conda env create -f environment.yml
 Citation
 
-If you use this repository, please cite the associated manuscript:
-Ohia J, Cui J. A Graph-Transformer Pipeline for Single-Cell microRNA–Gene Regulatory Analysis.
+If you use this repository, please cite the associated paper:
+Ohia J, Cui J. MicroRNA-gene Pipeline: A Graph-Transformer Pipeline for Single-Cell microRNA–Gene Regulatory Analysis.
