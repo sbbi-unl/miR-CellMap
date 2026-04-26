@@ -1,6 +1,6 @@
 # MicroRNA-gene Pipeline
 
-This is the repository for the manuscript: **A Graph-Transformer Pipeline for Single-Cell microRNA–Gene Regulatory Analysis**.
+This is the repository for MicroRNA-gene Pipeline **A Graph-Transformer Pipeline for Single-Cell microRNA–Gene Regulatory Analysis**.
 
 If you have any questions or feedback, please contact **Jane Ohia** or **Juan Cui**.
 
