@@ -4,6 +4,18 @@ This is the repository for MicroRNA-gene Pipeline **A Graph-Transformer Pipeline
 
 If you have any questions or feedback, please contact **Jane Ohia** or **Juan Cui**.
 
+
+## Dataset Access
+
+This repository does not redistribute large public raw datasets. The datasets used in the manuscript should be downloaded from their original public sources.
+
+* Single-cell miRNA/mRNA co-profiling data: GSE114071, is available in this repo as GSE114071.zip and also through the Gene Expression Omnibus.
+* Bulk cancer miRNA and mRNA datasets: MLOmics resource. The download link is provided below.
+
+MLOmics download link: [Kotoge, Rikuto (2025). MLOmics: Cancer Multi-Omics Database for Machine Learning. figshare. Dataset. https://doi.org/10.6084/m9.figshare.28729127.v2]
+
+Curated miRNA–gene regulatory evidence was obtained from miRTarBase and ENCORI/starBase. These dataset are available in this repo as "ENCORI_hg38_miRNA_mRNA_all.txt" and "miRTarBase_MTI.zip"
+
 ---
 
 ## Dev environment
